@@ -1,0 +1,32 @@
+.table{
+    width: 100%;
+    height: 100vh;
+    transition: background-image 6s ease-in-out;
+    background:url(../images/data-table1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.table .container {
+    padding-top: 100px;
+}
+.table p {
+    color: #fff; 
+    border: 1px solid #fff;
+    font-size: 1.3rem;
+    z-index: 100;
+}
+.table table{
+    margin: 10px auto;
+    backdrop-filter: blur(90px);
+}
+.table table th,td{
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 10px 25px;
+}
+
+.table h1 {
+    color: #fff;
+    font-size: 4rem;
+    margin: 20px auto;
+}
