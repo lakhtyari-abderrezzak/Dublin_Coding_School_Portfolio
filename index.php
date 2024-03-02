@@ -35,7 +35,7 @@
   <?php include "contact.php" ?>
   <!-- link to javascript file -->
 
-  <script src="javascript_Files/main.js" type="javascript/text"></script>
+  <script src="/javascript_Files/main.js" type="javascript/text"></script>
 </body>
 
 </html>
